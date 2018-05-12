@@ -1,0 +1,39 @@
+_repo: An-Essay-on-the-BeautifulFrom-the-Greek-of-Plotinus_29510
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Taylor, Thomas
+    birthdate: 1758
+    deathdate: 1835
+    gutenberg_agent_id: '3385'
+    url: http://www.gutenberg.org/2009/agents/3385
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Taylor_%28neoplatonist%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plotinus
+    aliases:
+    - Plotinos
+    - Πλωτῖνος
+    birthdate: 204
+    deathdate: 270
+    gutenberg_agent_id: '33956'
+    url: http://www.gutenberg.org/2009/agents/33956
+    wikipedia: http://en.wikipedia.org/wiki/Plotinus
+description: ''
+gutenberg_issued: '2009-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29510'
+  lccn: '17016725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aesthetics -- Early works to 1800'
+- !lcc 'BH'
+title: An Essay on the Beautiful, from the Greek of Plotinus
+url: http://www.gutenberg.org/ebooks/29510
